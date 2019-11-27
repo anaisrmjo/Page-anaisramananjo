@@ -3,4 +3,3 @@ function myBtn() {
 	document.getElementById("page1").style.marginLeft = "-100%";
 
 }
-
